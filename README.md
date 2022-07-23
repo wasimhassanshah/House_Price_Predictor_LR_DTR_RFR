@@ -8,5 +8,5 @@ Using Linear Regression and Decision Tree Algorithms to predict house prices
 * Optimal parameters are used to reach the best Decision Tree Reressor model
 * Out of two selected models of Linear Regression and of Decision Tree Regreesor, the best performing model is found to be of a Decision Tree Regressor.
 
-# About the Datasetr
-Dataset is taken from the kaggle
+# About the Dataset
+The dataset used in this project is obtained from Kaggle
