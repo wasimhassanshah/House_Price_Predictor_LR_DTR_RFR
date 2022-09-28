@@ -1,4 +1,4 @@
-# Predicting-House-Prices-in-Python-LR-DTR-RFR-XGboostR
+# Predicting-House-Prices-in-Python-LR-DTR-RFR-XGboost
 Using Linear Regression, Decision Tree Regressor, Random Forest Regressor, and XGboost Regressor Algorithms to predict house prices
 # Project 1: House Price Predictor : Project Overview
 * Applied the Machine Laerning Algorithms : Linear Regression, Decision Tree Regression, Random Forest Regressor, and XGboost Regressor to predict House prices 
